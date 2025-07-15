@@ -1,0 +1,17 @@
+.carousel-inner img {
+  height: 800px;
+  object-fit: cover;
+  object-position: center;
+}
+body {
+  background: linear-gradient(135deg, #1e1e2f, #3a0ca3);
+  color: white;
+}
+.card-img-top {
+  height: 500px;
+  object-fit: cover;
+  object-position: center;
+}
+.form-label{
+  color: white;
+}
